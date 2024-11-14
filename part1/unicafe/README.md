@@ -1,6 +1,6 @@
-# courseinfo
+# Unicafe 
 
-This web application displays details about the react course, including:
-- course name
-- number of parts
-- total number of exercises
+This web application displays feedback statistics for Unicafe, including:
+- Counts of good, neutral, and bad feedback, total no.of feedback
+- Overall average rating
+- Percentage of positive feedback
